@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "chapter 12 : 실전 구현 10번 문제(자물쇠와 열쇠)"
-date:   2020-09-23 19:31:29 +0900
-categories: algorithm_with_python
+title: post-sample
+date: 2020-01-02 19:20:23 +0900
+category: sample
 ---
 
 # 문제   
