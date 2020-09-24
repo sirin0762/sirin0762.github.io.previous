@@ -2,7 +2,7 @@
 layout: post
 title: post-sample
 date: 2020-01-02 19:20:23 +0900
-category: algorithm_with_python
+category: algorithm
 ---
 
 # 문제   
