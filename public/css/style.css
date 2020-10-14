@@ -340,7 +340,7 @@ footer {
 	}
 }
 @media screen and (max-width : 1200px){
-	.article{
+	article{
 		width: 95%;	
 	}
 }
