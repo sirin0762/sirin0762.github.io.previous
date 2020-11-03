@@ -17,3 +17,12 @@ category: 정보처리기사
 **3. 데이터 입출력**   
 **4. 절차형 SQL**   
 [전반적인 부분 3, 4](https://www.youtube.com/watch?v=vomjyqFqO34&list=PLKpxllD6C8Cli4UZqnDG4_77OU6XeF6e_&index=2&ab_channel=%EC%A3%BC%EA%B0%84%EC%BB%B4%EA%B3%B5)   
+
+## 2장 통합 구현
+[총 정리](https://www.youtube.com/watch?v=czUeBEkPOPE&ab_channel=%EC%A3%BC%EA%B0%84%EC%BB%B4%EA%B3%B5)   
+**1. 단위 모듈 구현**   
+[IPC 통신](https://jwprogramming.tistory.com/54)     
+[IPC 통신 영상](https://www.youtube.com/watch?v=biDbn7FBbLs&ab_channel=%ED%95%9C%EB%B9%9B%EB%AF%B8%EB%94%94%EC%96%B4)   
+**2, 단위 모듈 테스트**   
+**3. 개발 지원 도구**   
+
