@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "정보처리기사 - 2과목 : 소프트웨어 개발"
-date: 2020=11=02
-category: 정보처리기사
+date: 2020-11-02
+category: information processing
 ---
 # 2과목 소프트웨어 개발
 ## 1장 데이터의 입출력 구현
