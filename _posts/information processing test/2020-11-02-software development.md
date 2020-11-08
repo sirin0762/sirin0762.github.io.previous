@@ -26,3 +26,9 @@ category: information processing
 **2, 단위 모듈 테스트**   
 **3. 개발 지원 도구**   
 
+## 3장 소프트웨어 패키징
+**1 ~ 3. SW 패키징, 릴리즈 노트, DRM**   
+[총 정리](https://www.youtube.com/watch?v=IOlTbPIoJzY&list=PLKpxllD6C8Cli4UZqnDG4_77OU6XeF6e_&index=4&ab_channel=%EC%A3%BC%EA%B0%84%EC%BB%B4%EA%B3%B5)   
+**4 ~ 8. 소프트웨어 매뉴얼과 분산관리도구, 빌드 자동화 도구**   
+[총 정리](https://www.youtube.com/watch?v=dWiKgGxkN40&list=PLKpxllD6C8Cli4UZqnDG4_77OU6XeF6e_&index=6&ab_channel=%EC%A3%BC%EA%B0%84%EC%BB%B4%EA%B3%B5)   
+[git pull, fetch의 차이](https://yuja-kong.tistory.com/60)   
