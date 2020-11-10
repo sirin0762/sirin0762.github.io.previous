@@ -32,3 +32,8 @@ category: information processing
 **4 ~ 8. 소프트웨어 매뉴얼과 분산관리도구, 빌드 자동화 도구**   
 [총 정리](https://www.youtube.com/watch?v=dWiKgGxkN40&list=PLKpxllD6C8Cli4UZqnDG4_77OU6XeF6e_&index=6&ab_channel=%EC%A3%BC%EA%B0%84%EC%BB%B4%EA%B3%B5)   
 [git pull, fetch의 차이](https://yuja-kong.tistory.com/60)   
+## 4장 어플리케이션 테스트 관리
+**49 ~ 51. 어플리케이션 테스트 분류**   
+[총 정리](https://www.youtube.com/watch?v=SQqshdzKf2o&list=PLKpxllD6C8Cli4UZqnDG4_77OU6XeF6e_&index=7&ab_channel=%EC%A3%BC%EA%B0%84%EC%BB%B4%EA%B3%B5)   
+**52 ~ 55. 개발 단계별 어플리케이션 테스트**   
+[총 정리](https://www.youtube.com/watch?v=RqMVVMX7D5Q&list=PLKpxllD6C8Cli4UZqnDG4_77OU6XeF6e_&index=8&ab_channel=%EC%A3%BC%EA%B0%84%EC%BB%B4%EA%B3%B5)   
