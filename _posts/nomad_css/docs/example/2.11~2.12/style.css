@@ -1,0 +1,22 @@
+.grid{
+    display: grid;
+    gap: 5px;
+    grid-template-rows: repeat(auto-fill, 100px);
+    color: white;
+}
+
+.grid:nth-child(odd){
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+}
+
+.grid:nth-child(even){
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+.item:nth-child(odd){
+    background-color: green;
+}
+
+.item:nth-child(even){
+    background-color: skyblue;
+}

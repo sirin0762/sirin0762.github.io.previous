@@ -1,0 +1,23 @@
+.grid{
+    display: grid;
+    /*grid의 가로 길이를 유심히 봐야한다.*/
+    background-color: black;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: repeat(4, 100px);
+    justify-content: center;
+    gap: 5px;
+    color: white;
+}
+
+.header{
+    background-color: aquamarine;
+}
+.content{
+    background-color: skyblue;
+}
+.nav{
+    background-color: pink;
+}
+.footer{
+    background-color: peru;
+}

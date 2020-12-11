@@ -1,0 +1,25 @@
+.grid{
+    display: grid;
+    grid-template: 
+    "header header header header" 1fr
+    "nav content content content" 2fr
+    "footer footer footer footer" 1fr / 1fr 1fr 1fr 1fr;
+    height: 100vh;
+}
+
+.header{
+    background-color: aquamarine;
+    grid-area: header;
+}
+.content{
+    background-color: skyblue;
+    grid-area: content;
+}
+.nav{
+    background-color: pink;
+    grid-area: nav;
+}
+.footer{
+    background-color: peru;
+    grid-area: footer;
+}
